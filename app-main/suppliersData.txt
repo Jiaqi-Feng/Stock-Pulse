@@ -1,0 +1,30 @@
+Tasty Treats Inc
+tasty@example.com
+(123) 456-7890
+Sunrise Grocery
+sunrise@example.com
+(987) 654-3210
+Green Living Supplies
+info@greenliving.com
+(555) 123-4567
+Global Pantry Imports
+contact@globalpantry.com
+(333) 777-9999
+Healthy Harvest Foods
+sales@healthyharvest.com
+(444) 888-2222
+Mega Mart Essentials
+info@megamart.com
+(111) 222-3333
+Foodie's Delight
+foodie@example.com
+(666) 999-4444
+Daily Needs Co.
+info@dailyneeds.com
+(777) 111-3333
+Organic Goods Ltd
+info@organicgoods.com
+(999) 555-7777
+Pantry Provisions
+info@pantryprovisions.com
+(222) 444-6666

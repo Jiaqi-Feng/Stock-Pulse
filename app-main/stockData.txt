@@ -1,0 +1,132 @@
+AA123
+Sunny Delights Orange Juice 1 liter
+100
+15/11/2024
+20/07/2023
+Tasty Treats Inc
+BB456
+Fresh Cow Milk 1 gallon
+50
+05/08/2024
+10/04/2023
+Sunrise Grocery
+CC789
+Farm Fresh Eggs 1 dozen
+75
+30/09/2024
+18/05/2023
+Global Pantry Imports
+DD234
+Baker's Pride Bread 500 grams
+80
+12/10/2024
+26/02/2023
+Daily Needs Co.
+EE567
+Pasta Perfection Pasta 1 pound
+30
+03/11/2024
+15/03/2023
+Organic Goods Ltd
+FF890
+Green Groves Olive Oil 750 ml
+45
+28/12/2024
+02/06/2023
+Pantry Provisions
+GG123
+Shine & Silk Shampoo 250 ml
+20
+10/11/2024
+14/08/2023
+SuperMart Supplies
+HH456
+SoftCare Toilet Paper 12 rolls
+60
+23/08/2024
+30/10/2023
+Household Haven
+II789
+CleanGenius Dish Soap 500 ml
+70
+17/09/2024
+19/01/2023
+Eco Friendly Foods
+JJ234
+ScrubMaster Dishwashing Brush 2-pack
+10
+05/07/2024
+05/09/2023
+Pantry Pride
+KK567
+Fresh Clean Laundry Detergent 2 liters
+90
+29/10/2024
+05/10/2023
+A1 Supermart
+LL890
+TableMates Napkins 100 sheets
+40
+30/08/2024
+11/02/2023
+Grocery Galaxy
+MM123
+TenderChoice Chicken Breast 500 grams
+65
+12/09/2024
+28/03/2023
+Pantry Partners
+NN456
+Fresh Greens Cabbage 1 head
+25
+25/07/2024
+24/04/2023
+Pantry Picks
+OO789
+Noodle Delight Egg Noodles 300 grams
+55
+02/12/2024
+21/05/2023
+Organic Food Innovators
+PP234
+FreshCleaner Washing Machine Cleaner 250 ml
+15
+20/11/2024
+30/06/2023
+EcoGro Innovations
+QQ567
+SoftNap Facial Tissues 6 boxes
+5
+10/12/2024
+22/01/2023
+EcoPantries
+RR890
+Vineyard Selection Red Wine 750 ml
+35
+12/07/2024
+09/07/2023
+Daily Delicacies
+SS123
+Prime Cuts Steak 300 grams
+85
+20/10/2024
+16/09/2023
+Kitchen King
+TT456
+Soup Supreme Canned Soup 400 grams
+75
+18/08/2024
+12/10/2023
+Foodie's Choice
+UU789
+OatFusion Oatmeal 500 grams
+30
+15/12/2024
+08/04/2023
+Healthful Eats
+VV234
+Smoky Delights Ham 250 grams
+60
+08/12/2024
+14/06/2023
+Daily Pantry
